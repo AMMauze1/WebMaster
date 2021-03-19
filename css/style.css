@@ -41,7 +41,7 @@ text-align: right;
 
 }
 
-h1,h2{
+h1,h2,h5{
   text-align: left;
   color:#ffffff
 
@@ -53,10 +53,6 @@ h1,h2{
   width: 600px;
   font-size: 27px
   margin: 100px 600px 0 0 ;
-  color: #ffffff
-}
-h5{
-  float: left;
   color: #ffffff
 }
 
